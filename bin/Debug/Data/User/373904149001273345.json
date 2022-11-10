@@ -1,0 +1,31 @@
+{
+  "Id": 373904149001273345,
+  "LastHuntTime": "2022-11-10T15:42:40.2601398+07:00",
+  "inventory": [
+    {
+      "name": "Silver",
+      "num": 1,
+      "owner": 0
+    },
+    {
+      "name": "Gold",
+      "num": 0,
+      "owner": 0
+    },
+    {
+      "name": "Platinum",
+      "num": 0,
+      "owner": 0
+    },
+    {
+      "name": "TC_Give",
+      "num": 0,
+      "owner": 0
+    },
+    {
+      "name": "TC_Self",
+      "num": 0,
+      "owner": 0
+    }
+  ]
+}
