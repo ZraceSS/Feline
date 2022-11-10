@@ -17,7 +17,7 @@ namespace Feline
     {
         private DiscordSocketClient _client;
 
-        private const string token = "MTAzOTk0ODk3NzU0Nzc3MTk1Ng.G3-Xek.fyx4p60w2B2G7WbOa_nqrQL8qU2UxsBHqkyDbY";
+        private const string token = "Your token here";
 
         public Friday()
         {
